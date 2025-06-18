@@ -20,7 +20,10 @@ This app matches a resume with a job description and gives a match score using N
 [![View on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resume-ranker-2tbixbq2ymm4zvp62htgvy.streamlit.app)
 
 
-## 📦 Install
+## 🛠️ How to Run Locally
+
 ```bash
+git clone https://github.com/vigneswaravula/resume-ranker.git
+cd resume-ranker
 pip install -r requirements.txt
 streamlit run app.py

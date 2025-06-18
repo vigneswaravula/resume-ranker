@@ -13,8 +13,12 @@ This app matches a resume with a job description and gives a match score using N
 - Streamlit
 - Scikit-learn (TF-IDF & Cosine Similarity)
 
-## 🌐 Hosted App
-👉 [Resume Ranker (Streamlit Cloud)](https://resume-ranker.streamlit.app) *(if deployed)*
+## 🚀 Live App
+
+👉 [Click here to open the Resume Ranker](https://resume-ranker-2tbixbq2ymm4zvp62htgvy.streamlit.app)
+
+[![View on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resume-ranker-2tbixbq2ymm4zvp62htgvy.streamlit.app)
+
 
 ## 📦 Install
 ```bash
